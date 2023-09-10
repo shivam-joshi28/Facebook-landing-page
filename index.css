@@ -1,0 +1,35 @@
+.row{
+    margin-top: 150px;
+}
+h1{
+    font-size: 70px;
+    color: blue;
+    
+}
+p{
+    font-size: 1.5rem;
+}
+
+input{
+    margin-top: 10px;
+
+}
+button{
+    margin-top: 10px;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+body{
+    background-color: whitesmoke;
+}
+a{
+    margin-top: 10px;
+    display: block;
+}
+.btn-success{
+    display: block !important;
+ 
+}
